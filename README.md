@@ -1,2 +1,2 @@
 # Beza_Assefa_Web_Design
-Assignment_02_HTML_CSS_U
+Assignment_02_HTML_CSS_UX_UI
